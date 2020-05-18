@@ -4,4 +4,4 @@
  
  This project explores into the survey of 2017 to analyze with few questions in mind like, do you need to be a graduate to be a professional developer? Can you get into a big size company without being a graduate? Which is the dominant gender as a professional developer?
  
- With the analysis on the above dataset, you do not need a graduate degree to get into a big size company or be a professional developer, but it helps to have one. And the dominant gender with the above given dataset were males.
+ After analyzing the above dataset, the data shows that you do not need to be a graduate to be employed into a big size company or be a professional developer, but it helps to have one. And the dominant gender with the above given dataset were males.
