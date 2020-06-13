@@ -1,4 +1,4 @@
-StackOverFlowSurvey is a part of the DataScience project from Udacity's Nanodegree program. The data for this survey was collected in 2017.
+StackOverFlowSurvey is a part of the DataScience project from Udacity's Nanodegree program. The data was collected from the survey of 2017.
  
 Data analysis and visualization for this project was completed using Python, Pandas, and Matplotlib in Jupyter Notebook and follows the CRISP-DM process. 
  
